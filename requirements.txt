@@ -3,5 +3,5 @@ pandas>=2.0.0
 matplotlib>=3.7.0
 numpy>=1.24.0
 lime>=0.2.0.1
-jupyter>=1.0.0
 seaborn>=0.12.0
+allpairspy>=2.5.0
