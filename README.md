@@ -44,12 +44,6 @@ python 11_defect_prediction.py
 
 Mỗi script in kết quả ra terminal và lưu ảnh `.png` (hoặc `.csv`) để đưa vào slide.
 
-## Gợi ý trình bày (mỗi bài 3 ý)
-
-1. Mục tiêu bài hands-on là gì.
-2. Code làm gì.
-3. Kết quả ý nghĩa gì với người kiểm thử AI.
-
 ## Yêu cầu
 
 Python 3.9+, không cần GPU.
